@@ -30,6 +30,7 @@ This project demonstrates:
 - **Filesystem caching** — for embeddings & scraped pages
 
 ## 📦 Folder Structure
+
 ├── addManualData.js
 ├── data/ # Knowledge base and embeddings
 ├── cache/ # Cached page content
@@ -38,7 +39,7 @@ This project demonstrates:
 ## ▶️ Usage
 
 1. Clone the repo
-2. Create a `.env` with your `OPENAI_API_KEY` and `TELEGRAM_TOKEN`
+2. Input your `OPENAI_API_KEY` and `TELEGRAM_TOKEN` in index.js file
 3. Run the bot:
 
 bash
